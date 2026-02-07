@@ -22,11 +22,6 @@ body {
   visibility: hidden;
   position: relative;
   overflow: hidden;
-
-  background-image: url("../img/Background.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 
 .container {
@@ -162,16 +157,6 @@ body {
 
 .idea-6 span {
   font-size: 15rem;
-}
-
-.six {
-  position: relative;
-}
-
-.six img {
-  display: inline-block;
-  max-width: 45%;
-  height: auto;
 }
 
 .six .hat {
