@@ -3,7 +3,7 @@ html {
 }
 
 body {
-margin: 0;
+  margin: 0;
   font-family: "Work Sans", sans-serif;
 
   min-height: 100vh;
@@ -22,6 +22,11 @@ margin: 0;
   visibility: hidden;
   position: relative;
   overflow: hidden;
+
+  background-image: url("../img/Background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .container {
