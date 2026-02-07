@@ -24,6 +24,15 @@ body {
   overflow: hidden;
 }
 
+.container {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 25px;
+  padding: 25px;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.2);
+}
+
 .container div.six {
   top: 10vh;
   z-index: 1;
