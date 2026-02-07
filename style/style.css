@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Work Sans", sans-serif;
+  font-family: Georgia, "Times New Roman", serif;
 
   min-height: 100vh;
   background-image: url("../img/Background.jpg");
@@ -51,6 +51,11 @@ body {
   left: 0;
   right: 0;
   top: 20vh;
+}
+
+.container > div.six {
+  position: relative;
+  top: auto;
 }
 
 .six {
