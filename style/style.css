@@ -58,6 +58,37 @@ body {
   top: 20vh;
 }
 
+.six {
+  position: relative;
+  top: auto !important;
+  margin-top: 10vh;
+  z-index: 3;
+}
+
+.girl-dp {
+  max-width: 260px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.wish {
+  margin-top: 20px;
+  position: relative;
+  z-index: 5;
+}
+
+.wish-hbd {
+  text-align: center;
+  color: #ff69b4;
+}
+
+.wish h5 {
+  text-align: center;
+  color: #222;
+}
+
 .one {
   font-size: 4.5rem;
 }
